@@ -1,0 +1,6 @@
+{
+  "name": "School Accounting System",
+  "description": "Comprehensive school accounting software containing Income/Expense tracking, Party ledgers with print, Blacklists, Custom permissions, Cash receipts, Approved payment vouchers with double-copy printing, and Admin-User messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
